@@ -7,6 +7,12 @@ of price bars, and after each bar the bot replies with the orders it
 wants placed. Everything runs on paper money — no real funds move at
 any point.
 
+![make.fun bounty](https://make.fun/badge/btc-race-24h-20261123-0511.svg)
+![rank](https://make.fun/badge/btc-race-24h-20261123-0511/sutanvmd/btc-race-bot/rank.svg)
+![reward](https://make.fun/badge/btc-race-24h-20261123-0511/sutanvmd/btc-race-bot/reward.svg)
+
+Bounty: [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261123-0511)
+
 The bot is one Node 22 program. It has no runtime dependencies apart
 from the kit's SDK shim, which is vendored into the repo unchanged.
 
